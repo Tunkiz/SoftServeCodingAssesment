@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AoMksnU14yIrHffbsvTJvBlZjOVp0ha6hrJ41Hlzxyw=",
+  "Source": "SoftServeWebApi",
+  "BasePath": "_content/SoftServeWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
